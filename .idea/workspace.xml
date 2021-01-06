@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c69e139f-1323-402b-b6db-f5989c19fb84" name="Default Changelist" comment="Initial Commit">
+    <list default="true" id="c69e139f-1323-402b-b6db-f5989c19fb84" name="Default Changelist" comment="Added Resume Button">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,23 +37,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Krish\Desktop\GitWebsite\images" />
       <recent name="C:\Users\Krish\Desktop\GitWebsite\assets\css\images" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +51,12 @@
       <updated>1609804142817</updated>
       <workItem from="1609804144123" duration="3896000" />
       <workItem from="1609820065378" duration="82000" />
-      <workItem from="1609820166055" duration="7941000" />
+      <workItem from="1609820166055" duration="8552000" />
+      <workItem from="1609866126919" duration="1891000" />
+      <workItem from="1609890823568" duration="485000" />
+      <workItem from="1609891356020" duration="69000" />
+      <workItem from="1609891662653" duration="3328000" />
+      <workItem from="1609899831882" duration="1453000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1609827319804</created>
@@ -73,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609827319804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Resume Button">
+      <created>1609828355689</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609828355689</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Added Resume Button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Resume Button" />
   </component>
 </project>
