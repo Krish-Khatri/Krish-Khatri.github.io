@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c69e139f-1323-402b-b6db-f5989c19fb84" name="Default Changelist" comment="Added Resume Button">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+    <list default="true" id="c69e139f-1323-402b-b6db-f5989c19fb84" name="Default Changelist" comment="Added Images.">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +54,7 @@
       <workItem from="1609890823568" duration="485000" />
       <workItem from="1609891356020" duration="69000" />
       <workItem from="1609891662653" duration="3328000" />
-      <workItem from="1609899831882" duration="1453000" />
+      <workItem from="1609899831882" duration="1780000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1609827319804</created>
@@ -72,15 +70,42 @@
       <option name="project" value="LOCAL" />
       <updated>1609828355689</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Made Changes">
+      <created>1609901369258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609901369258</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Images.">
+      <created>1609901428585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609901428585</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Added Resume Button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Resume Button" />
+    <MESSAGE value="Made Changes" />
+    <MESSAGE value="Added Images." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Images." />
   </component>
 </project>
