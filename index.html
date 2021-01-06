@@ -103,10 +103,10 @@
 				<!-- Three -->
 					<section id="three">
 						<h2>Get In Touch</h2>
-						<p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
+						<p>I am currently open to and looking for new opportunities.</p>
 						<div class="row">
 							<div class="col-8 col-12-small">
-								<form method="post" action="#">
+								<form method="post" name = "contact_form" action="assets/php/contact-form-handler.php">
 									<div class="row gtr-uniform gtr-50">
 										<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
 										<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
@@ -117,21 +117,28 @@
 									<li><input type="submit" value="Send Message" /></li>
 								</ul>
 							</div>
+							<script>
+								var frmvalidator = new Validator("contact_form");
+								frmvalidator.addValidation("name","req","Please enter a name");
+								frmvalidator.addValidation("email","req", "Please enter your email");
+								frmvalidator.addValidation("email","email", "Please enter a valid email address");
+							</script>
+
 							<div class="col-4 col-12-small">
 								<ul class="labeled-icons">
 									<li>
 										<h3 class="icon solid fa-home"><span class="label">Address</span></h3>
-										1234 Somewhere Rd.<br />
-										Nashville, TN 00000<br />
-										United States
+										---------------<br />
+										--------------------<br />
+										---------------
 									</li>
 									<li>
 										<h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
-										000-000-0000
+										864-908-9207
 									</li>
 									<li>
 										<h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
-										<a href="#">hello@untitled.tld</a>
+										<a href="mailto:krishkhatri@outlook.com">krishkhatri@outlook.com</a>
 									</li>
 								</ul>
 							</div>
@@ -472,6 +479,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
+		    <script src="assets/js/gen_validator.js"></script>
 			<!---<script src="assets/js/jquery.poptrox.min.js"></script>-->
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
